@@ -1,4 +1,5 @@
-# >_⚡  Instrukt
+# >_⚡  Langchian project
+
 
  **Terminal AI Commander at your fingertips**
 
